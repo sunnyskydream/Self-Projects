@@ -1,5 +1,5 @@
 # Self-Projects
-1. [Project] What are the key drivers to higher BA and DS salary?<br/>
+1. <a href="https://github.com/sunnyskydream/Self-Projects/blob/main/%5BProject%5D_What_are_the_key_drivers_to_higher_BA_and_DS_salary.ipynb">[Project] What are the key drivers to higher BA and DS salary?</a> <br/> 
 *higher here means above average total yearly compensation = $185,067<br/><br/>
 Recommendation for higher compensation in Business Analyst and Data Scientist<br/>
 A. Data Science title leads to higher pay than Business Analyst, so if possible, go for Data Scientist.<br/>
