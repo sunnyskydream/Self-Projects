@@ -18,10 +18,10 @@ C. build LSTM Neural Network<br/>
 D. send data via Google Sheets api<br/>
 E. display result in Google Data Studio<br/>
 
-3. Reference: Marketing Mix Modeling
-A. <a href="https://towardsdatascience.com/introduction-to-marketing-mix-modeling-in-python-d0dd81f4e794">[Self-Practice] "Introduction to Marketing Mix Modeling in Python"</a> <br/> 
+3. Reference: Marketing Mix Modeling<br/> 
+A. <a href="https://towardsdatascience.com/introduction-to-marketing-mix-modeling-in-python-d0dd81f4e794">"Introduction to Marketing Mix Modeling in Python"</a> <br/> 
 a. LinearRegression
-Sales = 0.36 * TV + 0.49 * Radio + 1.23 * Banners + 6678.40
-b. TimeSeriesSplit
-B. <a href="https://towardsdatascience.com/an-upgraded-marketing-mix-modeling-in-python-5ebb3bddc1b6">[Self-Practice] "An Upgraded Marketing Mix Modeling in Python"</a> <br/> 
+Sales = 0.36 * TV + 0.49 * Radio + 1.23 * Banners + 6678.40<br/> 
+b. TimeSeriesSplit<br/> 
+B. <a href="https://towardsdatascience.com/an-upgraded-marketing-mix-modeling-in-python-5ebb3bddc1b6">"An Upgraded Marketing Mix Modeling in Python"</a> <br/> 
 a. Adding Saturation Effect and Carry-Over Effect
