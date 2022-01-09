@@ -18,7 +18,13 @@ C. build LSTM Neural Network<br/>
 D. send data via Google Sheets api<br/>
 E. display result in Google Data Studio<br/>
 
-3. Reference: Marketing Mix Modeling<br/> 
+
+3. <a href="https://github.com/sunnyskydream/Self-projects/blob/main/%5BProject%5D_Yelp_case.ipynb">[coursework] Yelp case</a> <br/> 
+Learning<br/>
+A. t-test<br/>
+B. exploratory data analysis: Yelp rating by Area and Google_cuisine<br/>
+
+4. Reference: Marketing Mix Modeling<br/> 
 A. <a href="https://towardsdatascience.com/introduction-to-marketing-mix-modeling-in-python-d0dd81f4e794">"Introduction to Marketing Mix Modeling in Python"</a> <br/> 
 a. LinearRegression
 Sales = 0.36 * TV + 0.49 * Radio + 1.23 * Banners + 6678.40<br/> 
