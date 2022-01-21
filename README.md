@@ -17,6 +17,9 @@ B. kaggle api to download dataset to drive<br/>
 C. build LSTM Neural Network<br/>
 D. send data via Google Sheets api<br/>
 E. display result in Google Data Studio<br/>
+Todo<br/>
+ <a href="https://cloud.google.com/blog/products/application-development/how-to-schedule-a-recurring-python-script-on-gcp">colab automation</a> <br/>
+
 
 
 3. <a href="https://github.com/sunnyskydream/Self-projects/blob/main/%5BProject%5D_Yelp_case.ipynb">[coursework] Yelp case</a> <br/> 
