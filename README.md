@@ -41,6 +41,6 @@ b. TimeSeriesSplit<br/>
 B. <a href="https://towardsdatascience.com/an-upgraded-marketing-mix-modeling-in-python-5ebb3bddc1b6">"An Upgraded Marketing Mix Modeling in Python"</a> <br/> 
 a. Adding Saturation Effect and Carry-Over Effect
 
-<b>6. <a href="https://www.kaggle.com/ashleypeilingwu/code">Kaggle Repo from remote self-learning in Taiwan for Chinese NLP, Recommendation</a></b> <br/> 
+<b>6. <a href="https://www.kaggle.com/ashleypeilingwu/code">Kaggle Repo from remote self-learning for Chinese NLP, Recommendation</a></b> <br/> 
 
 
