@@ -1,8 +1,7 @@
 # Self-projects
 <b>1. <a href="https://github.com/sunnyskydream/Self-Projects/blob/main/%5BProject%5D_What_are_the_key_drivers_to_higher_BA_and_DS_salary.ipynb">[Project] What are the key drivers to higher BA and DS salary?</a></b> <br/> 
 *higher here means above average total yearly compensation = $185,067<br/>
-- Summary: Defined above average salary for higher salary and ran multiple classification models and find that base salary and stock grant value plays the first two key drivers for total yearly compensation. However, gender, race and education doesn't indicate any high impact on salary triage.<br/>
-- Utilized knowledge: Python (EDA, Decision Tree, Logistic Regression, Random Forest, Gradient Boosting)<br/>
+- Summary: Motivated to learn key drivers for career compensation and familiarized myself with the job market, I used data from levels.fyi and ran EDA, Decision Tree model in Python to find interpretable drivers. Results shown base salary and stock grant value play the first two key drivers for total yearly compensation. However, gender, race and education didn't indicate any high impact on salary triage<br/>
 
 - Recommendation for higher compensation in Business Analyst and Data Scientist<br/>
 A. Data Science title leads to higher pay than Business Analyst, so if possible, go for Data Scientist.<br/>
@@ -14,8 +13,8 @@ F. For higher base salary(>$136,500): most influencers are numerical attributes 
 G. Due to small dataset, no matter which model I ran, it shows slightly overfitting: accuracy difference between train and test around 0.17%. And 10-fold cross validation is applied to check final accuracy.
 
 <b>2. <a href="https://github.com/sunnyskydream/Self-projects/blob/main/%5BSelf_Practice%5D_%22Build_predictive_Business_Intelligence_with_Google_Colab%2C_Google_Data_Studio_and_Google_Sheets%22.ipynb">[Self-Practice] Accessible ML Powered Business Intelligence Dashboard based on All Free Google Services</a></b> <br/> 
-- Summary: Inspired by Medium Article in Towards Data Science <a href="https://towardsdatascience.com/build-predictive-business-intelligence-with-google-colab-google-data-studio-and-google-sheets-9a5c1559124f">“Build predictive Business Intelligence with Google Colab, Google Data Studio and Google Sheets”</a>, I updated codes especially for API resources in data connection through Kaggle, Google Drive, Google Sheets, built LSTM Neural Network, and finally displayed real sales and sales prediction in Google Data Studio <br/> 
-- Utilized knowledge: APIs, Python (LSTM Neural Network), Google Data Studio<br/> 
+- Summary: Inspired by Medium Article in Towards Data Science <a href="https://towardsdatascience.com/build-predictive-business-intelligence-with-google-colab-google-data-studio-and-google-sheets-9a5c1559124f">“Build predictive Business Intelligence with Google Colab, Google Data Studio and Google Sheets”</a>, I enhanced code especially for API resources in data connection through Kaggle, Google Drive, Google Sheets, built LSTM Neural Network, and finally displayed real sales and sales prediction in Google Data Studio <br/> 
+
 - Learning<br/>
 A. colab linked to drive<br/>
 B. kaggle api to download dataset to drive<br/>
@@ -24,9 +23,8 @@ D. send data via Google Sheets api<br/>
 E. display result in Google Data Studio<br/>
 - Todo:  <a href="https://cloud.google.com/blog/products/application-development/how-to-schedule-a-recurring-python-script-on-gcp">colab automation</a> <br/>
 
-<b>3.<a href="https://www.canva.com/design/DAFBQXmn93U/4IXx1Im1WmmZGRioegvW2Q/view"> [Project]Interactive Weekly Sales and Prediction Demo System for Regional Sales Managers</b></a> 
-- Summary: Delivered dynamic demo system from data collection, data exploration, feature selection, model building, target audience and product feature definition, system design, web server setting and model deployment <br/> 
-- Utilized knowledge: Google Cloud Platform, SSH connections to Linux VMs, MySQL (MariaDB), Python (Common Gateway Interface (CGI), Linear Regression), Product Strategy, UI/UX, HTML/CSS(Bootstrap) <br/> 
+<b>3.<a href="https://www.canva.com/design/DAFBQXmn93U/4IXx1Im1WmmZGRioegvW2Q/view"> [Project]Interactive Sales Check and Prediction Demo System</b></a> 
+- Summary: Deployed multiple linear regression model to predict sales on Google Cloud Platform (MySQL in MariaDB); Common Gateway Interface (CGI) and model in Python; HTML/CSS(Bootstrap)). Rolled out check and prediction features tailored to regional sales managers and ranked A among 10 teams <br/> 
 
 <b>4. <a href="https://github.com/sunnyskydream/Self-projects/blob/main/%5BProject%5D_Yelp_case.ipynb">[coursework] Yelp case</a> </b> <br/> 
 Learning<br/>
